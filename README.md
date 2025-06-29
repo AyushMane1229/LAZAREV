@@ -47,7 +47,7 @@ To run this project locally, follow these steps:
 
 🤝 Contributions
 
-Contributions to the Lazarev Website Clone project are welcome! To contribute, follow these steps:
+ Contributions to the Lazarev Website Clone project are welcome! To contribute, follow these steps:
 
    1. Fork the repository.
 
