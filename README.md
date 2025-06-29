@@ -21,7 +21,7 @@ This is a frontend project inspired by the Lazarev.agency website. The goal of t
 
 ## 🖼️ Screenshots
 
-![Screenshot of the project]([https://github.com/AyushMane29/amazon/blob/main/amazon_screenshot.jpg?raw=true](https://github.com/AyushMane1229/LAZAREV/blob/f4268137f27377396ad58de2e7d3d4299c20c142/Screenshot%202025-06-29%20224251.png))  
+![Screenshot of the project](https://github.com/AyushMane1229/LAZAREV/blob/main/Screenshot.png?raw=true)  
 
 
 ## 🛠️ Installation
